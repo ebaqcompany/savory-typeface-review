@@ -1,0 +1,6 @@
+{
+  "name": "savory-typeface-review",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" }
+}
